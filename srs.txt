@@ -1,0 +1,55 @@
+REQUIREMENTS:
+     
+       1.Identify business goals,expectations and requirements that express the objective and desired outcomes of our website.
+       
+       2.Functional requirements
+      
+       3.stake holder requirrements
+
+       4.technical requirements
+ 
+       5.pharmacy license
+
+       6.drug supplier
+ 
+       7.consultant
+
+       8.GPS
+
+       9.prioritise and update
+
+
+PROCEDURE TO OPEN AN ONLINE PHARAMACY:
+    
+      * Seller registration at existing at E-pharmacy.
+
+      * For own website or app.
+
+
+ONLINE PHARMACY REGISTRATION AND LICENSE REQUIRED:
+
+      * Retail drug license
+
+      * Requirements and documents for setting up online pharmacy.
+
+      * Goods and service tax number
+
+
+REQUIREMENTS:
+
+      # Requires a valid prescription
+
+      # Online pharmacy should have physical address so drug authority can inspesct quality.
+      
+      # E-pharmacies has to registered under central licensing authority
+
+      # Retail drug license will be issued by state drug control authority.
+
+      # Presence of ohraamacist is must for reciving prescription and answering the questions of the customer.
+
+      # Pharmacy can't dispense habit forming medicines and schedule x drugs.
+
+      # Prescription drugs (schedule H and schedule H1) Can only be sell out aganist a valid doctor prescription.
+
+      # Online pharmacies have to comply with e- commerce standards covered under IT act,2000.
+
